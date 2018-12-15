@@ -3,8 +3,8 @@
 
 ###Bash most used commands:
 
-- cat           Concatenate and print (display) the content of files
-- cd            Change Directory
+- cat           + Concatenate and print (display) the content of files
+- cd            + Change Directory
 - chmod         Change access permissions
 - chown         Change file owner and group
 - clear         Clear terminal screen
