@@ -2,7 +2,7 @@
 ##Bash scripts
 
 ###Bash most used commands:
-
+<pre>
 - cat           + Concatenate and print (display) the content of files
 - cd            + Change Directory
 - chmod         Change access permissions
@@ -73,7 +73,7 @@
 - xz            Compress or decompress .xz and .lzma files
 - zip           Package and compress (archive) files.
 - .             Run a command script in the current shell
-
+</pre>
 
 
 
