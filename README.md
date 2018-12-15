@@ -1,10 +1,10 @@
 # bash
-##Bash scripts
+## Bash scripts
 
-###Bash most used commands:
+### Bash most used commands:
 <pre>
-- cat           + Concatenate and print (display) the content of files
-- cd            + Change Directory
+- cat           Concatenate and print (display) the content of files
+- cd            Change Directory
 - chmod         Change access permissions
 - chown         Change file owner and group
 - clear         Clear terminal screen
@@ -78,14 +78,16 @@
 
 
 
-###List of bash commands A - Z:
+### List of bash commands A - Z:
 **a**
-  alias    Create an alias •
-  apropos  Search Help manual pages (man -k)
-  apt-get  Search for and install software packages (Debian/Ubuntu)
-  aptitude Search for and install software packages (Debian/Ubuntu)
-  aspell   Spell Checker
-  awk      Find and Replace text, database sort/validate/index
+<pre>
+*  alias         Create an alias •
+*  apropos       Search Help manual pages (man -k)
+*  apt-get       Search for and install software packages (Debian/Ubuntu)
+*  aptitude      Search for and install software packages (Debian/Ubuntu)
+*  aspell        Spell Checker
+*  awk           Find and Replace text, database sort/validate/index
+</pre>
 **b**
   basename Strip directory and suffix from filenames
   bash     GNU Bourne-Again SHell 
