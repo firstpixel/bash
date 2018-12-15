@@ -3,76 +3,76 @@
 
 ### Bash most used commands:
 <pre>
-    cat           Concatenate and print (display) the content of files
-<br/>    cd            Change Directory
-<br/>    chmod         Change access permissions
-<br/>    chown         Change file owner and group
-<br/>    clear         Clear terminal screen
-<br/>    cp            Copy one or more files to another location
-<br/>    cron          Daemon to execute scheduled commands
-<br/>    crontab       Schedule a command to run at a later time
-<br/>    curl          Transfer data  from or to a server
-<br/>    dir           Briefly list directory contents
-<br/>    echo          Display message on screen •
-<br/>    env           Environment variables
-<br/>    exec          Execute a command
-<br/>    exit          Exit the shell
-<br/>    fdisk         Partition table manipulator for Linux
-<br/>    file          Determine file type
-<br/>    find          Search for files that meet a desired criteria
-<br/>    grep          Search file(s) for lines that match a given pattern
-<br/>    help          Display help for a built-in command •
-<br/>    history       Command History
-<br/>    ifconfig      Configure a network interface
-<br/>    kill          Kill a process by specifying its PID
-<br/>    less          Display output one screen at a time
-<br/>    ls            List information about file(s)
-<br/>    man           Help manual
-<br/>    mkdir         Create new folder(s)
-<br/>    mount         Mount a file system
-<br/>    mv            Move or rename files or directories
-<br/>    netstat       Networking connections/stats
-<br/>    nslookup      Query Internet name servers interactively
-<br/>    open          Open a file in its default application
-<br/>    passwd        Modify a user password
-<br/>    ping          Test a network connection
-<br/>    pwd           Print Working Directory
-<br/>    rm            Remove files
-<br/>    sed           Stream Editor
-<br/>    ssh           Secure Shell client (remote login program)
-<br/>    stat          Display file or file system status 
-<br/>    su            Substitute user identity
-<br/>    sudo          Execute a command as another user
-<br/>    tail          Output the last part of file
-<br/>    tar           Store, list or extract files in an archive
-<br/>    touch         Change file timestamps
-<br/>    top           List processes running on the system
-<br/>    traceroute    Trace Route to Host
-<br/>    tty           Print filename of terminal on stdin
-<br/>    type          Describe a command •
-<br/>    umask         Users file creation mask
-<br/>    umount        Unmount a device
-<br/>    uname         Print system information
-<br/>    unrar         Extract files from a rar archive 
-<br/>    unset         Remove variable or function names
-<br/>    useradd       Create new user account
-<br/>    userdel       Delete a user account
-<br/>    usermod       Modify user account
-<br/>    users         List users currently logged in
-<br/>    vmstat        Report virtual memory statistics
-<br/>    wait          Wait for a process to complete •
-<br/>    watch         Execute/display a program periodically
-<br/>    wc            Print byte, word, and line counts
-<br/>    whereis       Search the user's $path, man pages and source files for a program
-<br/>    which         Search the user's $path for a program file
-<br/>    who           Print all usernames currently logged in
-<br/>    whoami        Print the current user id and name (`id -un')
-<br/>    wget          Retrieve web pages or files via HTTP, HTTPS or FTP
-<br/>    write         Send a message to another user 
-<br/>    xargs         Execute utility, passing constructed argument list(s)
-<br/>    xz            Compress or decompress .xz and .lzma files
-<br/>    zip           Package and compress (archive) files.
-<br/>    .             Run a command script in the current shell
+cat           Concatenate and print (display) the content of files
+<br/>cd            Change Directory
+<br/>chmod         Change access permissions
+<br/>chown         Change file owner and group
+<br/>clear         Clear terminal screen
+<br/>cp            Copy one or more files to another location
+<br/>cron          Daemon to execute scheduled commands
+<br/>crontab       Schedule a command to run at a later time
+<br/>curl          Transfer data  from or to a server
+<br/>dir           Briefly list directory contents
+<br/>echo          Display message on screen •
+<br/>env           Environment variables
+<br/>exec          Execute a command
+<br/>exit          Exit the shell
+<br/>fdisk         Partition table manipulator for Linux
+<br/>file          Determine file type
+<br/>find          Search for files that meet a desired criteria
+<br/>grep          Search file(s) for lines that match a given pattern
+<br/>help          Display help for a built-in command •
+<br/>history       Command History
+<br/>ifconfig      Configure a network interface
+<br/>kill          Kill a process by specifying its PID
+<br/>less          Display output one screen at a time
+<br/>ls            List information about file(s)
+<br/>man           Help manual
+<br/>mkdir         Create new folder(s)
+<br/>mount         Mount a file system
+<br/>mv            Move or rename files or directories
+<br/>netstat       Networking connections/stats
+<br/>nslookup      Query Internet name servers interactively
+<br/>open          Open a file in its default application
+<br/>passwd        Modify a user password
+<br/>ping          Test a network connection
+<br/>pwd           Print Working Directory
+<br/>rm            Remove files
+<br/>sed           Stream Editor
+<br/>ssh           Secure Shell client (remote login program)
+<br/>stat          Display file or file system status 
+<br/>su            Substitute user identity
+<br/>sudo          Execute a command as another user
+<br/>tail          Output the last part of file
+<br/>tar           Store, list or extract files in an archive
+<br/>touch         Change file timestamps
+<br/>top           List processes running on the system
+<br/>traceroute    Trace Route to Host
+<br/>tty           Print filename of terminal on stdin
+<br/>type          Describe a command •
+<br/>umask         Users file creation mask
+<br/>umount        Unmount a device
+<br/>uname         Print system information
+<br/>unrar         Extract files from a rar archive 
+<br/>unset         Remove variable or function names
+<br/>useradd       Create new user account
+<br/>userdel       Delete a user account
+<br/>usermod       Modify user account
+<br/>users         List users currently logged in
+<br/>vmstat        Report virtual memory statistics
+<br/>wait          Wait for a process to complete •
+<br/>watch         Execute/display a program periodically
+<br/>wc            Print byte, word, and line counts
+<br/>whereis       Search the user's $path, man pages and source files for a program
+<br/>which         Search the user's $path for a program file
+<br/>who           Print all usernames currently logged in
+<br/>whoami        Print the current user id and name (`id -un')
+<br/>wget          Retrieve web pages or files via HTTP, HTTPS or FTP
+<br/>write         Send a message to another user 
+<br/>xargs         Execute utility, passing constructed argument list(s)
+<br/>xz            Compress or decompress .xz and .lzma files
+<br/>zip           Package and compress (archive) files.
+<br/>.             Run a command script in the current shell
 </pre>
 
 
