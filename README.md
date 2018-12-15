@@ -1,5 +1,5 @@
 # Bash
-## Basic Bash 
+## Basic Bash Commands
 
 ### Sample of bash with some modifications for MAC:
 [.bash_profile](https://github.com/firstpixel/bash/blob/master/.bash_profile)
