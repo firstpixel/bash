@@ -81,22 +81,24 @@ cat           Concatenate and print (display) the content of files
 ### List of bash commands A - Z:
 **a**
 <pre>
-*  alias         Create an alias •
-*  apropos       Search Help manual pages (man -k)
-*  apt-get       Search for and install software packages (Debian/Ubuntu)
-*  aptitude      Search for and install software packages (Debian/Ubuntu)
-*  aspell        Spell Checker
-*  awk           Find and Replace text, database sort/validate/index
+<br/>alias         Create an alias •
+<br/>apropos       Search Help manual pages (man -k)
+<br/>apt-get       Search for and install software packages (Debian/Ubuntu)
+<br/>aptitude      Search for and install software packages (Debian/Ubuntu)
+<br/>aspell        Spell Checker
+<br/>awk           Find and Replace text, database sort/validate/index
 </pre>
 **b**
-  basename Strip directory and suffix from filenames
-  bash     GNU Bourne-Again SHell 
-  bc       Arbitrary precision calculator language 
-  bg       Send to background
-  bind     Set or display readline key and function bindings •
-  break    Exit from a loop •
-  builtin  Run a shell builtin
-  bzip2    Compress or decompress named file(s)
+<pre>
+<br/>basename       Strip directory and suffix from filenames
+<br/>bash           GNU Bourne-Again SHell 
+<br/>bc             Arbitrary precision calculator language 
+<br/>bg             Send to background
+<br/>bind           Set or display readline key and function bindings •
+<br/>break          Exit from a loop •
+<br/>builtin        Run a shell builtin
+<br/>bzip2          Compress or decompress named file(s)
+</pre>
 **c**
   cal      Display a calendar
   case     Conditionally perform a command
