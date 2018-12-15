@@ -3,76 +3,76 @@
 
 ###Bash most used commands:
 
-- cat      Concatenate and print (display) the content of files
-- cd       Change Directory
-- chmod    Change access permissions
-- chown    Change file owner and group
-- clear    Clear terminal screen
-- cp       Copy one or more files to another location
-- cron     Daemon to execute scheduled commands
-- crontab  Schedule a command to run at a later time
-- curl     Transfer data  from or to a server
-- dir      Briefly list directory contents
-- echo     Display message on screen •
-- env      Environment variables
-- exec     Execute a command
-- exit     Exit the shell
-- fdisk    Partition table manipulator for Linux
-- file     Determine file type
-- find     Search for files that meet a desired criteria
-- grep     Search file(s) for lines that match a given pattern
-- help     Display help for a built-in command •
-- history  Command History
-- ifconfig Configure a network interface
-- kill     Kill a process by specifying its PID
-- less     Display output one screen at a time
-- ls       List information about file(s)
-- man      Help manual
-- mkdir    Create new folder(s)
-- mount    Mount a file system
-- mv       Move or rename files or directories
-- netstat  Networking connections/stats
-- nslookup Query Internet name servers interactively
-- open     Open a file in its default application
-- passwd   Modify a user password
-- ping     Test a network connection
-- pwd      Print Working Directory
-- rm       Remove files
-- sed      Stream Editor
-- ssh      Secure Shell client (remote login program)
-- stat     Display file or file system status 
-- su       Substitute user identity
-- sudo     Execute a command as another user
-- tail     Output the last part of file
-- tar      Store, list or extract files in an archive
-- touch    Change file timestamps
-- top      List processes running on the system
-- traceroute Trace Route to Host
-- tty      Print filename of terminal on stdin
-- type     Describe a command •
-- umask    Users file creation mask
-- umount   Unmount a device
-- uname    Print system information
-- unrar    Extract files from a rar archive 
-- unset    Remove variable or function names
-- useradd  Create new user account
-- userdel  Delete a user account
-- usermod  Modify user account
-- users    List users currently logged in
-- vmstat   Report virtual memory statistics
-- wait     Wait for a process to complete •
-- watch    Execute/display a program periodically
-- wc       Print byte, word, and line counts
-- whereis  Search the user's $path, man pages and source files for a program
-- which    Search the user's $path for a program file
-- who      Print all usernames currently logged in
-- whoami   Print the current user id and name (`id -un')
-- wget     Retrieve web pages or files via HTTP, HTTPS or FTP
-- write    Send a message to another user 
-- xargs    Execute utility, passing constructed argument list(s)
-- xz       Compress or decompress .xz and .lzma files
-- zip      Package and compress (archive) files.
-- .        Run a command script in the current shell
+- cat           Concatenate and print (display) the content of files
+- cd            Change Directory
+- chmod         Change access permissions
+- chown         Change file owner and group
+- clear         Clear terminal screen
+- cp            Copy one or more files to another location
+- cron          Daemon to execute scheduled commands
+- crontab       Schedule a command to run at a later time
+- curl          Transfer data  from or to a server
+- dir           Briefly list directory contents
+- echo          Display message on screen •
+- env           Environment variables
+- exec          Execute a command
+- exit          Exit the shell
+- fdisk         Partition table manipulator for Linux
+- file          Determine file type
+- find          Search for files that meet a desired criteria
+- grep          Search file(s) for lines that match a given pattern
+- help          Display help for a built-in command •
+- history       Command History
+- ifconfig      Configure a network interface
+- kill          Kill a process by specifying its PID
+- less          Display output one screen at a time
+- ls            List information about file(s)
+- man           Help manual
+- mkdir         Create new folder(s)
+- mount         Mount a file system
+- mv            Move or rename files or directories
+- netstat       Networking connections/stats
+- nslookup      Query Internet name servers interactively
+- open          Open a file in its default application
+- passwd        Modify a user password
+- ping          Test a network connection
+- pwd           Print Working Directory
+- rm            Remove files
+- sed           Stream Editor
+- ssh           Secure Shell client (remote login program)
+- stat          Display file or file system status 
+- su            Substitute user identity
+- sudo          Execute a command as another user
+- tail          Output the last part of file
+- tar           Store, list or extract files in an archive
+- touch         Change file timestamps
+- top           List processes running on the system
+- traceroute    Trace Route to Host
+- tty           Print filename of terminal on stdin
+- type          Describe a command •
+- umask         Users file creation mask
+- umount        Unmount a device
+- uname         Print system information
+- unrar         Extract files from a rar archive 
+- unset         Remove variable or function names
+- useradd       Create new user account
+- userdel       Delete a user account
+- usermod       Modify user account
+- users         List users currently logged in
+- vmstat        Report virtual memory statistics
+- wait          Wait for a process to complete •
+- watch         Execute/display a program periodically
+- wc            Print byte, word, and line counts
+- whereis       Search the user's $path, man pages and source files for a program
+- which         Search the user's $path for a program file
+- who           Print all usernames currently logged in
+- whoami        Print the current user id and name (`id -un')
+- wget          Retrieve web pages or files via HTTP, HTTPS or FTP
+- write         Send a message to another user 
+- xargs         Execute utility, passing constructed argument list(s)
+- xz            Compress or decompress .xz and .lzma files
+- zip           Package and compress (archive) files.
+- .             Run a command script in the current shell
 
 
 
