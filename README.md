@@ -1,6 +1,14 @@
 # Bash
 ## Basic Bash 
 
+### Sample of bash with some modifications for MAC:
+[.bash_profile](https://github.com/firstpixel/bash/blob/master/.bash_profile)
+<pre>
+cls           Will clear console like "command + K"
+showFiles     Will show hidden files on Finder
+hideFiles     Will hide hidden files on Finder
+</pre>
+
 ### List of most used commands:
 <pre>
 cat           Concatenate and print (display) the content of files
