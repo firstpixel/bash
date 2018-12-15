@@ -1,92 +1,92 @@
 # bash
-Bash scripts
+##Bash scripts
 
-Bash most used commands:
+###Bash most used commands:
 
-  cat      Concatenate and print (display) the content of files
-  cd       Change Directory
-  chmod    Change access permissions
-  chown    Change file owner and group
-  clear    Clear terminal screen
-  cp       Copy one or more files to another location
-  cron     Daemon to execute scheduled commands
-  crontab  Schedule a command to run at a later time
-  curl     Transfer data  from or to a server
-  dir      Briefly list directory contents
-  echo     Display message on screen •
-  env      Environment variables
-  exec     Execute a command
-  exit     Exit the shell
-  fdisk    Partition table manipulator for Linux
-  file     Determine file type
-  find     Search for files that meet a desired criteria
-  grep     Search file(s) for lines that match a given pattern
-  help     Display help for a built-in command •
-  history  Command History
-  ifconfig Configure a network interface
-  kill     Kill a process by specifying its PID
-  less     Display output one screen at a time
-  ls       List information about file(s)
-  man      Help manual
-  mkdir    Create new folder(s)
-  mount    Mount a file system
-  mv       Move or rename files or directories
-  netstat  Networking connections/stats
-  nslookup Query Internet name servers interactively
-  open     Open a file in its default application
-  passwd   Modify a user password
-  ping     Test a network connection
-  pwd      Print Working Directory
-  rm       Remove files
-  sed      Stream Editor
-  ssh      Secure Shell client (remote login program)
-  stat     Display file or file system status 
-  su       Substitute user identity
-  sudo     Execute a command as another user
-  tail     Output the last part of file
-  tar      Store, list or extract files in an archive
-  touch    Change file timestamps
-  top      List processes running on the system
-  traceroute Trace Route to Host
-  tty      Print filename of terminal on stdin
-  type     Describe a command •
-  umask    Users file creation mask
-  umount   Unmount a device
-  uname    Print system information
-  unrar    Extract files from a rar archive 
-  unset    Remove variable or function names
-  useradd  Create new user account
-  userdel  Delete a user account
-  usermod  Modify user account
-  users    List users currently logged in
-  vmstat   Report virtual memory statistics
-  wait     Wait for a process to complete •
-  watch    Execute/display a program periodically
-  wc       Print byte, word, and line counts
-  whereis  Search the user's $path, man pages and source files for a program
-  which    Search the user's $path for a program file
-  who      Print all usernames currently logged in
-  whoami   Print the current user id and name (`id -un')
-  wget     Retrieve web pages or files via HTTP, HTTPS or FTP
-  write    Send a message to another user 
-  xargs    Execute utility, passing constructed argument list(s)
-  xz       Compress or decompress .xz and .lzma files
-  zip      Package and compress (archive) files.
-  .        Run a command script in the current shell
-
-
+- cat      Concatenate and print (display) the content of files
+- cd       Change Directory
+- chmod    Change access permissions
+- chown    Change file owner and group
+- clear    Clear terminal screen
+- cp       Copy one or more files to another location
+- cron     Daemon to execute scheduled commands
+- crontab  Schedule a command to run at a later time
+- curl     Transfer data  from or to a server
+- dir      Briefly list directory contents
+- echo     Display message on screen •
+- env      Environment variables
+- exec     Execute a command
+- exit     Exit the shell
+- fdisk    Partition table manipulator for Linux
+- file     Determine file type
+- find     Search for files that meet a desired criteria
+- grep     Search file(s) for lines that match a given pattern
+- help     Display help for a built-in command •
+- history  Command History
+- ifconfig Configure a network interface
+- kill     Kill a process by specifying its PID
+- less     Display output one screen at a time
+- ls       List information about file(s)
+- man      Help manual
+- mkdir    Create new folder(s)
+- mount    Mount a file system
+- mv       Move or rename files or directories
+- netstat  Networking connections/stats
+- nslookup Query Internet name servers interactively
+- open     Open a file in its default application
+- passwd   Modify a user password
+- ping     Test a network connection
+- pwd      Print Working Directory
+- rm       Remove files
+- sed      Stream Editor
+- ssh      Secure Shell client (remote login program)
+- stat     Display file or file system status 
+- su       Substitute user identity
+- sudo     Execute a command as another user
+- tail     Output the last part of file
+- tar      Store, list or extract files in an archive
+- touch    Change file timestamps
+- top      List processes running on the system
+- traceroute Trace Route to Host
+- tty      Print filename of terminal on stdin
+- type     Describe a command •
+- umask    Users file creation mask
+- umount   Unmount a device
+- uname    Print system information
+- unrar    Extract files from a rar archive 
+- unset    Remove variable or function names
+- useradd  Create new user account
+- userdel  Delete a user account
+- usermod  Modify user account
+- users    List users currently logged in
+- vmstat   Report virtual memory statistics
+- wait     Wait for a process to complete •
+- watch    Execute/display a program periodically
+- wc       Print byte, word, and line counts
+- whereis  Search the user's $path, man pages and source files for a program
+- which    Search the user's $path for a program file
+- who      Print all usernames currently logged in
+- whoami   Print the current user id and name (`id -un')
+- wget     Retrieve web pages or files via HTTP, HTTPS or FTP
+- write    Send a message to another user 
+- xargs    Execute utility, passing constructed argument list(s)
+- xz       Compress or decompress .xz and .lzma files
+- zip      Package and compress (archive) files.
+- .        Run a command script in the current shell
 
 
 
-List of bash commands A - Z:
-<b>a</b>
+
+
+###List of bash commands A - Z:
+**a**
   alias    Create an alias •
   apropos  Search Help manual pages (man -k)
   apt-get  Search for and install software packages (Debian/Ubuntu)
   aptitude Search for and install software packages (Debian/Ubuntu)
   aspell   Spell Checker
   awk      Find and Replace text, database sort/validate/index
-<b>b</b>
+**b**
   basename Strip directory and suffix from filenames
   bash     GNU Bourne-Again SHell 
   bc       Arbitrary precision calculator language 
@@ -95,7 +95,7 @@ List of bash commands A - Z:
   break    Exit from a loop •
   builtin  Run a shell builtin
   bzip2    Compress or decompress named file(s)
-<b>c</b>
+**c**
   cal      Display a calendar
   case     Conditionally perform a command
   cat      Concatenate and print (display) the content of files
@@ -119,7 +119,7 @@ List of bash commands A - Z:
   csplit   Split a file into context-determined pieces
   curl     Transfer data  from or to a server
   cut      Divide a file into several parts
-<b>d</b>
+**d**
   date     Display or change the date & time
   dc       Desk Calculator
   dd       Convert and copy a file, write disk headers, boot records
@@ -135,7 +135,7 @@ List of bash commands A - Z:
   dirs     Display list of remembered directories
   dmesg    Print kernel & driver messages 
   du       Estimate file space usage
-<b>e</b>
+**e**
   echo     Display message on screen •
   egrep    Search file(s) for lines that match an extended expression
   eject    Eject removable media
@@ -149,7 +149,7 @@ List of bash commands A - Z:
   expand   Convert tabs to spaces
   export   Set an environment variable
   expr     Evaluate expressions
-<b>f</b>
+**f**
   false    Do nothing, unsuccessfully
   fdformat Low-level format a floppy disk
   fdisk    Partition table manipulator for Linux
@@ -166,7 +166,7 @@ List of bash commands A - Z:
   ftp      File Transfer Protocol
   function Define Function Macros
   fuser    Identify/kill the process that is accessing a file
-<b>g</b>
+**g**
   gawk     Find and Replace text within file(s)
   getopts  Parse positional parameters
   grep     Search file(s) for lines that match a given pattern
@@ -175,14 +175,14 @@ List of bash commands A - Z:
   groupmod Modify a group
   groups   Print group names a user is in
   gzip     Compress or decompress named file(s)
-<b>h</b>
+**h**
   hash     Remember the full pathname of a name argument
   head     Output the first part of file(s)
   help     Display help for a built-in command •
   history  Command History
   hostname Print or set system name
   htop     Interactive process viewer
-<b>i</b>
+**i**
   iconv    Convert the character set of a file
   id       Print user and group id's
   if       Conditionally perform a command
@@ -193,13 +193,13 @@ List of bash commands A - Z:
   install  Copy files and set attributes
   iostat   Report CPU and i/o statistics
   ip       Routing, devices and tunnels
-<b>j</b>
+**j**
   jobs     List active jobs •
   join     Join lines on a common field
-<b>k</b>
+**k**
   kill     Kill a process by specifying its PID
   killall  Kill processes by name
-<b>l</b>
+**l**
   less     Display output one screen at a time
   let      Perform arithmetic on shell variables •
   link     Create a link to a file 
@@ -220,7 +220,7 @@ List of bash commands A - Z:
   ls       List information about file(s)
   lsof     List open files
   lspci    List all PCI devices
-<b>m</b>
+**m**
   make     Recompile a group of programs
   man      Help manual
   mkdir    Create new folder(s)
@@ -236,7 +236,7 @@ List of bash commands A - Z:
   mtr      Network diagnostics (traceroute/ping)
   mv       Move or rename files or directories
   mmv      Mass Move and rename (files)
-<b>n</b>
+**n**
   nc       Netcat, read and write data across networks
   netstat  Networking connections/stats
   nice     Set the priority of a command or job
@@ -244,10 +244,10 @@ List of bash commands A - Z:
   nohup    Run a command immune to hangups
   notify-send  Send desktop notifications
   nslookup Query Internet name servers interactively
-<b>o</b>
+**o**
   open     Open a file in its default application
   op       Operator access 
-<b>p</b>
+**p**
   passwd   Modify a user password
   paste    Merge lines of files
   pathchk  Check file name portability
@@ -264,10 +264,10 @@ List of bash commands A - Z:
   pushd    Save and then change the current directory
   pv       Monitor the progress of data through a pipe 
   pwd      Print Working Directory
-<b>q</b>
+**q**
   quota    Display disk usage and limits
   quotacheck Scan a file system for disk usage
-<b>r</b>
+**r**
   ram      ram disk device
   rar      Archive files with compression
   rcp      Copy files between two machines
@@ -283,7 +283,7 @@ List of bash commands A - Z:
   rm       Remove files
   rmdir    Remove folder(s)
   rsync    Remote file copy (Synchronize file trees)
-<b>s</b>
+**s**
   screen   Multiplex terminal, run remote shells via ssh
   scp      Secure copy (remote file copy)
   sdiff    Merge two files interactively
@@ -309,7 +309,7 @@ List of bash commands A - Z:
   sum      Print a checksum for a file
   suspend  Suspend execution of this shell •
   sync     Synchronize data on disk with memory
-<b>t</b>
+**t**
   tail     Output the last part of file
   tar      Store, list or extract files in an archive
   tee      Redirect output to multiple files
@@ -327,7 +327,7 @@ List of bash commands A - Z:
   tsort    Topological sort
   tty      Print filename of terminal on stdin
   type     Describe a command •
-<b>u</b>
+**u**
   ulimit   Limit user resources •
   umask    Users file creation mask
   umount   Unmount a device
@@ -347,12 +347,12 @@ List of bash commands A - Z:
   users    List users currently logged in
   uuencode Encode a binary file 
   uudecode Decode a file created by uuencode
-<b>v</b>
+**v**
   v        Verbosely list directory contents (`ls -l -b')
   vdir     Verbosely list directory contents (`ls -l -b')
   vi       Text Editor
   vmstat   Report virtual memory statistics
-<b>w</b>
+**w**
   w        Show who is logged on and what they are doing
   wait     Wait for a process to complete •
   watch    Execute/display a program periodically
@@ -364,7 +364,7 @@ List of bash commands A - Z:
   whoami   Print the current user id and name (`id -un')
   wget     Retrieve web pages or files via HTTP, HTTPS or FTP
   write    Send a message to another user 
-<b>x</b>
+**x**
   xargs    Execute utility, passing constructed argument list(s)
   xdg-open Open a file or URL in the user's preferred application.
   xz       Compress or decompress .xz and .lzma files
